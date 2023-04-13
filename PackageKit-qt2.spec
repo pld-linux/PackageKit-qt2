@@ -1,6 +1,7 @@
 Summary:	packagekit-qt2 library
 Summary(pl.UTF-8):	Biblioteka packagekit-qt2
 Name:		PackageKit-qt2
+# keep 0.8.x for qt4 here; for qt5 see PackageKit-qt5.spec
 Version:	0.8.8
 Release:	1
 License:	LGPL v2+
